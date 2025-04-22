@@ -1,9 +1,9 @@
 // require("dotenv").config();
 import { useState, useEffect } from 'react';
 import { useGeolocated } from 'react-geolocated';
-import MoodForm from './components/MoodForm';
-import Calendar from './components/Calendar';
-import WeatherDisplay from './components/WeatherDisplay';
+import MoodForm from './Components/MoodForm';
+import Calendar from './Components/Calendar';
+import WeatherDisplay from './Components/WeatherDisplay';
 import './App.css';
 
 
